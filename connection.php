@@ -1,7 +1,7 @@
 <?php
 $mysql_hostname = "mysql";
 $mysql_user = "Shruti";
-$mysql_password = "password";
+$mysql_password = "Shruti";
 $mysql_database = "sampledb";
 $prefix = "";
 $bd = mysql_connect($mysql_hostname, $mysql_user, $mysql_password) or die("Could not connect database");
